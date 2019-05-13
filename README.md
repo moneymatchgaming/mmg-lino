@@ -1,0 +1,2 @@
+# mmg-lino
+lino test
